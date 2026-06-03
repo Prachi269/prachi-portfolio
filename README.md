@@ -22,7 +22,7 @@ I am actively preparing for **software development placements** and improving my
 
 ## 🌐 Live Portfolio
 
-👉 https://your-portfolio-link.com (update after deployment)
+👉 https://prachi-portfolio-roan.vercel.app/
 
 ---
 
