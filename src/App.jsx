@@ -11,7 +11,7 @@ import BlurBlob from './components/BlurBlob';
 import Certifications from "./components/Certifications/Certifications";
 import CodingProfiles from "./components/CodingProfile/CodingProfile";
 import LeetCodeStats from "./components/LeetCodeStats/LeetCodeStats";
-import HackerRankBadges from "./components/HackerRank/HackerRankBadges";
+import HackerRankBadges from "./components/HackerRank/HackerRankBadges.jsx";
 const App = () => {
   return (
     <div className="bg-[#050414]">
